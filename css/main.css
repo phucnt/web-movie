@@ -1,0 +1,13 @@
+/* line 1, /home/phuc-dsv/Example/web-movies/less/navbar.less */
+.navbar-color-primary {
+  background-color: #4cc3d9;
+  border: none;
+  border-radius: 0px;
+}
+/* line 6, /home/phuc-dsv/Example/web-movies/less/navbar.less */
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #ffffff;
+  background-color: #16a1bb;
+}
